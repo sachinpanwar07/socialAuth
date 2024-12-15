@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448598892892",
+    "project_id": "rnauth-79dac",
+    "storage_bucket": "rnauth-79dac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448598892892:android:365580b3255993a9cf2199",
+        "android_client_info": {
+          "package_name": "com.socialmediaauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448598892892-msb1il4rj3ts6ihcoki350ltrm6oqphl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialmediaauthapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "448598892892-m7616murlls5gn33221s6nighj4090vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0kliCeBauxFIMyHMXzKvvj2LiipS1ns4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448598892892-m7616murlls5gn33221s6nighj4090vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
